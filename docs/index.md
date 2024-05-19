@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Hackathon Weekly 🚀 "
-  text: "周周黑客马拉松，每周一次的创意狂欢"
+  name: "Creaton Weekly 🚀 "
+  text: "周周 createor 马拉松，每周一次的创意狂欢"
   tagline: "在这里，每个周末都是新点子的起飞时刻！"
   actions:
     - theme: brand
